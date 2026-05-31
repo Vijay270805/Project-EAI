@@ -3,4 +3,4 @@
 
 
 Under Developing phase..
-It will be depoly here as soon as..
+It will be deploy here as soon as..
